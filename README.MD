@@ -7,4 +7,3 @@ This simple game is built based on [Shawn Beaton](https://github.com/Beat0154)'s
 ## Credits
 
 Sprite is from [FGO Wiki Fandom](https://fategrandorder.fandom.com/wiki/Astolfo_(Saber))
-GIF by [Glossydipity](https://weheartit.com/glossydipity) on WeLoveIt!
